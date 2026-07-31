@@ -1,0 +1,4 @@
+---
+aliases:
+  - Geographic Information Systems
+---
